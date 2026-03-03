@@ -8,7 +8,7 @@ from tarot_data import cartas_del_tarot, lista_de_cartas
 # ============================================
 # CONFIGURACIÓN
 # ============================================
-BOT_TOKEN = "8517106108:AAGjCx8y4cba6MHXxBW05BlYSvgcGKd5sS8"  # <--- Reemplaza con tu token
+BOT_TOKEN = "token"  # <--- Reemplaza con tu token
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", 
@@ -175,5 +175,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
